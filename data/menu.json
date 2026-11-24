@@ -1,0 +1,102 @@
+{
+    "categories": [
+        {
+            "id": "all",
+            "name": "همه غذاها"
+        },
+        {
+            "id": "protein",
+            "name": "پروتئینی"
+        },
+        {
+            "id": "diet",
+            "name": "رژیمی"
+        },
+        {
+            "id": "salad",
+            "name": "سالاد"
+        },
+        {
+            "id": "breakfast",
+            "name": "صبحانه"
+        },
+        {
+            "id": "drink",
+            "name": "نوشیدنی"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "مرغ گریل با سبزیجات",
+            "category": "protein",
+            "description": "سینه مرغ گریل شده با سبزیجات بخارپز و ادویه مخصوص",
+            "price": 185000,
+            "unit": "هر پرس",
+            "image": "images/grilled-chicken.jpg"
+        },
+        {
+            "id": 2,
+            "name": "بشقاب رژیمی مرغ",
+            "category": "diet",
+            "description": "مرغ گریل، کینوا، بروکلی و هویج تازه",
+            "price": 210000,
+            "unit": "هر پرس",
+            "image": "images/diet-chicken.jpg"
+        },
+        {
+            "id": 3,
+            "name": "استیک گوشت",
+            "category": "protein",
+            "description": "استیک گوشت گوساله با سبزیجات تازه",
+            "price": 320000,
+            "unit": "هر پرس",
+            "image": "images/beef-steak.jpg"
+        },
+        {
+            "id": 4,
+            "name": "سالاد سزار رژیمی",
+            "category": "salad",
+            "description": "کاهو تازه، مرغ گریل، نان تست و سس سبک",
+            "price": 165000,
+            "unit": "هر پرس",
+            "image": "images/caesar-salad.jpg"
+        },
+        {
+            "id": 5,
+            "name": "سالاد کینوا",
+            "category": "salad",
+            "description": "کینوا، خیار، گوجه گیلاسی و سبزیجات تازه",
+            "price": 175000,
+            "unit": "هر پرس",
+            "image": "images/quinoa-salad.jpg"
+        },
+        {
+            "id": 6,
+            "name": "املت سفیده تخم مرغ",
+            "category": "breakfast",
+            "description": "املت سبک با سفیده تخم مرغ و سبزیجات",
+            "price": 95000,
+            "unit": "هر پرس",
+            "image": "images/egg-omelette.jpg"
+        },
+        {
+            "id": 7,
+            "name": "پنکیک جو دوسر",
+            "category": "breakfast",
+            "description": "پنکیک تهیه شده از جو دوسر با موز و عسل",
+            "price": 125000,
+            "unit": "هر پرس",
+            "image": "images/oat-pancake.jpg"
+        },
+        {
+            "id": 8,
+            "name": "اسموتی توت فرنگی",
+            "category": "drink",
+            "description": "توت فرنگی تازه با شیر کم چرب",
+            "price": 85000,
+            "unit": "هر لیوان",
+            "image": "images/strawberry-smoothie.jpg"
+        }
+    ]
+}
